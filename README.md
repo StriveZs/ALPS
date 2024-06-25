@@ -3,6 +3,8 @@ This is the offical implement of our ALPS framwork.
 
 Paper: "ALPS: An Auto-Labeling and Pre-training Scheme for Remote Sensing Segmentation With Segment Anything Model"
 
+[Paper Link](https://arxiv.org/abs/2406.10855)
+
 ## Usage
 ### Environment
 - Python 3.8.5
